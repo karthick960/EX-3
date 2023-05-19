@@ -50,9 +50,9 @@ while True:
 
 
 # SERVER OUTPUT :
-![output](S.png)
+![output](S1.png)
 # CLIENT OUTPUT :
-![output](C.png)
+![output](C1.png)
 
 
 
