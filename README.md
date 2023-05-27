@@ -42,7 +42,8 @@ while True:
 ```
 # SERVER PROGRAM :
 ```PYTHON 3
-import socket
+import socket![Uploading server2.png…]()
+
 s=socket.socket()
 s.connect(('localhost',8000))
 while True:
@@ -52,14 +53,13 @@ while True:
 
 
 # SERVER OUTPUT :
-![output](S1.png)
+![image](https://github.com/karthick960/EX-3/assets/121215938/1c9dd7ba-b936-4b6c-825d-292aa523f4dd)
+
 # CLIENT OUTPUT :
-![output](C1.png)
+![image](https://github.com/karthick960/EX-3/assets/121215938/dec01336-6113-4be8-b4d8-e1ee54e51d75)
+
 
 
 
 # RESULT :
 ## Thus, python program to perform stop and wait protocol was successfully executed.
-
-
-
